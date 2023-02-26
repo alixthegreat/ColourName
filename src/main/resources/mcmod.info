@@ -1,0 +1,16 @@
+[
+{
+  "modid": "colour",
+  "name": "Colour Name",
+  "description": "Mod used to change player name colour.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["alixthegreat"],
+  "credits": "dxxxxy for the template. alixthegreat for the development.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
